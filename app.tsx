@@ -1,4 +1,4 @@
-import { useState } from "react";
+ import { useState } from "react";
 import "./src/index.css";
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
  return (
     <div className="App">
       <h1>
-        <span className="bolt">?</span> Vite + React + Electron <span className="bolt">?</span>
+        <span className="bolt">?</span> This is my JavaScript Electron Webapp. Thank you for visiting! How are you? I hope are you? <span className="bolt">?</span>
       </h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
