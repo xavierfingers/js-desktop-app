@@ -65,5 +65,3 @@ GitHub Profile
 Check out the xavierfingers GitHub profile for more projects and contributions.
 View this project here: js-desktop-app
 
-yaml
-Copy code
